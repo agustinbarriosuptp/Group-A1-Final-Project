@@ -1,6 +1,12 @@
 # Robotics Project
+## Members:
+- Rafael Acosta F11203101
+- Agustin Barrios F11203103
+- Elías Gómez F11203109
+- Iván Portilla F11203117
+---
 
-Welcome to the **[Project Name]**! This repository includes two main robotics projects: a custom-built **Robotic Arm** and a project using the **EPSON robot** for lab tasks. Both projects integrate electrical, programming, and mechanical engineering.
+Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository includes two main robotics projects: a custom-built **Robotic Arm** and a project using the **EPSON robot** for lab tasks. Both projects integrate electrical, programming, and mechanical engineering.
 
 ---
 
@@ -33,15 +39,15 @@ Provide wiring diagrams showing connections between the power supply, control bo
 
 ### 🖥️ 3. Programming Engineering
 
-![SPELL](https://img.shields.io/badge/Language-SPELL-purple)  
+![SPEL](https://img.shields.io/badge/Language-SPEL-purple)  
 ![Libraries](https://img.shields.io/badge/Libraries-ROS%20%7C%20OpenCV-brightgreen)
 
 **Code Structure:**
-- **Languages and Libraries:** The code is developed using <span style="color:purple">SPELL</span> and integrates robotics libraries such as OpenCV and ROS.
+- **Languages and Libraries:** The code is developed using <span style="color:purple">SPEL</span> and integrates robotics libraries such as OpenCV and ROS.
 - **Control Algorithms:** Explanation of algorithms such as inverse kinematics for movement precision, PID for stability, and object detection.
 
 **Setup & Execution:**
-- **Installation:** Steps for installing SPELL, necessary software, and dependencies.
+- **Installation:** Steps for installing SPEL, necessary software, and dependencies.
 - **Running the Code:** Instructions to execute the main program controlling the robotic arm.
 - **Testing:** Any available testing routines or simulators used to verify the arm’s movements and performance.
 
@@ -98,11 +104,11 @@ Include wiring diagrams for connections between sensors, motors, and controllers
 
 ### 🖥️ 3. Programming Engineering
 
-![SPELL](https://img.shields.io/badge/Language-SPELL-purple)  
+![SPEL](https://img.shields.io/badge/Language-SPEL-purple)  
 ![Libraries](https://img.shields.io/badge/Libraries-ROS%20%7C%20OpenCV-brightgreen)
 
 **Code Structure:**
-- **Languages and Libraries:** The project is developed using <span style="color:purple">SPELL</span> and integrates libraries such as OpenCV and ROS.
+- **Languages and Libraries:** The project is developed using <span style="color:purple">SPEL</span> and integrates libraries such as OpenCV and ROS.
 - **Control Algorithms:** Includes path planning and object manipulation logic.
 
 **Tasks Implementation:**
@@ -111,7 +117,7 @@ Include wiring diagrams for connections between sensors, motors, and controllers
 - [Integration Code](#)
 
 **Setup & Execution:**
-- **Installation:** Steps for setting up SPELL, dependencies, and the development environment.
+- **Installation:** Steps for setting up SPEL, dependencies, and the development environment.
 - **Running the Code:** Commands or scripts to start the program.
 - **Testing:** Explanation of testing scripts or simulators included for verifying functionality.
 
