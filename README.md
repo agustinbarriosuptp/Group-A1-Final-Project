@@ -134,8 +134,3 @@ Instructions for any additional mechanical components needed for the EPSON setup
 - **Dimensions and Clearances:** Key measurements for EPSON robot workspace and any additional components.
 
 ---
-
-## Contributing
-
-If you’d like to contribute to this project, please fork the repository and submit a pull request with your proposed changes. Make sure to review the code of conduct and follow contribution guidelines.
-
