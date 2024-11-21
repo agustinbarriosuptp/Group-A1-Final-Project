@@ -10,7 +10,7 @@ Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository inclu
 
 ---
 
-## Section 1: Custom Robotic Arm
+## Section 1: Introduction to Robotics FINAL PROJECT: Custom Robotic Arm
 
 This section describes our custom-designed **Robotic Arm** project, covering electrical, programming, and mechanical engineering.
 
