@@ -47,7 +47,6 @@ Provide wiring diagrams showing connections between the power supply, control bo
 - **Control Algorithms:** Explanation of algorithms such as inverse kinematics for movement precision, PID for stability, and object detection.
 
 **Setup & Execution:**
-- **Installation:** Steps for installing SPEL, necessary software, and dependencies.
 - **Running the Code:** Instructions to execute the main program controlling the robotic arm.
 - **Testing:** Any available testing routines or simulators used to verify the arm’s movements and performance.
 
