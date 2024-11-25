@@ -9,7 +9,7 @@ Forward kinematics is the process of computing the position and orientation of t
 
 #### Transformation Matrices
 The manipulator is defined with four frames:
-- **Base to Frame 1** (\(T_0^1\)): Revolute joint, with an angle \(q\).
+- **Base to Frame 1** $(\(T_0^1\))$: Revolute joint, with an angle $\(q\)$.
 - **Frame 1 to Frame 2** (\(T_1^2\)): Prismatic joint, with a length \(l_1\).
 - **Frame 2 to Frame 3** (\(T_2^3\)): Prismatic joint, with a length \(l_2\).
 - **Frame 3 to End-Effector** (\(T_3^4\)): Fixed length \(l_{ee}\).
