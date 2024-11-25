@@ -44,7 +44,7 @@ Inverse kinematics involves finding the joint parameters $(\(q, l_1, l_2, l_{ee}
 ### Forward Kinematics:
 For $\(q = \frac{\pi}{4}, l_0 = 1, l_1 = 2, l_2 = 3, l_{ee} = 0.5\)$:
 \[
-$T_{EE} = \begin{bmatrix} 
+$T_{EE}$ = $\begin{bmatrix} 
 0.707 & -0.707 & 0 & 2.12 \\
 0.707 & 0.707 & 0 & 2.12 \\
 0 & 0 & 1 & 6.50 \\
