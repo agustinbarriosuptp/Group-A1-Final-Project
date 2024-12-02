@@ -14,3 +14,9 @@ The proposed solution addresses labor-intensive tasks, offering scalability for 
 
 This research underscores the potential of robotics in transforming traditional warehouse workflows, paving the way for smarter, automated logistics solutions.
 
+ ## Keywords
+- MATLAB
+- RPPP MANIPULATOR
+- STACKING
+- KINEMATIC PROBLEM
+- PICK-AND-PLACE
