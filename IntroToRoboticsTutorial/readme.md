@@ -13,8 +13,9 @@ This project focuses on programming and controlling the EPSON robot in a lab set
 - **Task 2: Stacking** – The EPSON robot stacks blocks and tokens in a specified order.  
   [![Watch Task 2 Video](https://img.shields.io/badge/Watch-Task_2-blue)](https://youtu.be/SGoLy_Q0XWM?si=tNRr6POcxG31-aYo) <---- *Click here*
 
-- **Task 3: Integration** – Combines Pick and Place and Stacking with an I/O box for interactive control.
-  [![Watch Task 3 Video](https://img.shields.io/badge/Watch-Task_2-blue)](https://youtu.be/zePF8Wemp40) <---- *Click here*
+- **Task 3: Integration** – With a 3D-printed tray, we place it and place pieces inside.  
+  [![Watch Task 3 Video](https://img.shields.io/badge/Watch-Task_3-blue)](https://www.youtube.com/watch?v=zePF8Wemp40) <---- *Click here* 
+
 
 ---
 
