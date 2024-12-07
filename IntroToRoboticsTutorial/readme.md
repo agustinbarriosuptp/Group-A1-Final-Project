@@ -14,7 +14,7 @@ This project focuses on programming and controlling the EPSON robot in a lab set
   [![Watch Task 2 Video](https://img.shields.io/badge/Watch-Task_2-blue)](https://youtu.be/SGoLy_Q0XWM?si=tNRr6POcxG31-aYo) <---- *Click here*
 
 - **Task 3: Integration** – Combines Pick and Place and Stacking with an I/O box for interactive control.
- [![Watch Task 2 Video](https://img.shields.io/badge/Watch-Task_2-blue)](https://youtu.be/zePF8Wemp40) <---- *Click here*
+  [![Watch Task 3 Video](https://img.shields.io/badge/Watch-Task_2-blue)](https://youtu.be/zePF8Wemp40) <---- *Click here*
 
 ---
 
