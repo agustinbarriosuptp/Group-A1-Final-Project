@@ -46,9 +46,9 @@ Include wiring diagrams for connections between sensors, motors, and controllers
 - **Control Algorithms:** Includes path planning and object manipulation logic.
 
 **Tasks Implementation:**
-- [Pick and Place Code](#)
-- [Stacking Code](#)
-- [Integration Code](#)
+- [Pick and Place Code](https://github.com/agustinbarriosuptp/Group-A1-Final-Project/blob/main/IntroToRoboticsTutorial/Task1_Pick%26Place.prg)
+- [Stacking Code](https://github.com/agustinbarriosuptp/Group-A1-Final-Project/blob/main/IntroToRoboticsTutorial/Task2_Stacking.prg)
+- [Integration Code](https://github.com/agustinbarriosuptp/Group-A1-Final-Project/blob/main/IntroToRoboticsTutorial/Task3.prg)
 
 **Setup & Execution:**
 - **Installation:** Steps for setting up SPEL, dependencies, and the development environment.
