@@ -45,11 +45,8 @@ Provide wiring diagrams showing connections between the power supply, control bo
 
 **Design & Structure:**
 - **3D Models and CAD Files:** Links or files for all 3D models, CAD designs, and STL files for parts.
-- **Robot Specifications:** 
-
+- **Bill of Materials (BOM):** List of components, including servos, gears, and linkages.
 
 **Physical Considerations:**
-- **Load Capacity:** 
-- **Dimensions and Tolerances:** 
-
----
+- **Load Capacity and Torque Calculations:** Specifications and calculations for motor torque and load-bearing capacity to ensure stable operation.
+- **Dimensions and Tolerances:** Details on dimensions, joint clearances, and material choices based on the arm's intended function.
