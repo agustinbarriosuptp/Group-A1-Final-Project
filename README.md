@@ -6,7 +6,7 @@
 - Iván Portilla F11203117
 ---
 
-Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository includes two main robotics projects: a custom-built **Robotic Arm** and a project using the **EPSON robot** for lab tasks. Both projects integrate electrical, programming, and mechanical engineering.
+Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository includes the main robotics project: a custom-built **Robotic Arm**. This project integrate electrical and mechanical engineering.
 
 ---
 
@@ -38,7 +38,7 @@ Provide wiring diagrams showing connections between the power supply, control bo
 
 ---
 
-### 🧩 4. Mechanical Engineering
+### 🧩 3. Mechanical Engineering
 
 ![3D Models](https://img.shields.io/badge/3D_Models-CAD_Files-lightgrey)  
 ![Bill of Materials](https://img.shields.io/badge/BOM-Available-blue)
