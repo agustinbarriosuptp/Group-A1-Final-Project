@@ -12,7 +12,7 @@ Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository inclu
 
 ## Section 1: Introduction to Robotics FINAL PROJECT: Custom Robotic Arm
 
-This section describes our custom-designed **Robotic Arm** project, covering electrical, programming, and mechanical engineering.
+This section describes our custom-designed **Robotic Arm** project, covering electrical, and mechanical engineering.
 
 ### 🛠️ 1. Overview
 
@@ -35,20 +35,6 @@ This custom robotic arm is designed to perform manipulation tasks, such as grabb
 **Wiring Diagrams:**  
 Provide wiring diagrams showing connections between the power supply, control board, motors, and sensors.
 
----
-
-### 🖥️ 3. Programming Engineering
-
-![SPEL](https://img.shields.io/badge/Language-SPEL-purple)  
-![Libraries](https://img.shields.io/badge/Libraries-ROS%20%7C%20OpenCV-brightgreen)
-
-**Code Structure:**
-- **Languages and Libraries:** The code is developed using <span style="color:purple">SPEL</span> and integrates robotics libraries such as OpenCV and ROS.
-- **Control Algorithms:** Explanation of algorithms such as inverse kinematics for movement precision, PID for stability, and object detection.
-
-**Setup & Execution:**
-- **Running the Code:** Instructions to execute the main program controlling the robotic arm.
-- **Testing:** Any available testing routines or simulators used to verify the arm’s movements and performance.
 
 ---
 
@@ -59,13 +45,11 @@ Provide wiring diagrams showing connections between the power supply, control bo
 
 **Design & Structure:**
 - **3D Models and CAD Files:** Links or files for all 3D models, CAD designs, and STL files for parts.
-- **Bill of Materials (BOM):** List of components, including servos, gears, and linkages.
+- **Robot Specifications:** 
 
-**Assembly Guide:**  
-Detailed instructions for assembling the robotic arm.
 
 **Physical Considerations:**
-- **Load Capacity and Torque Calculations:** Specifications and calculations for motor torque and load-bearing capacity to ensure stable operation.
-- **Dimensions and Tolerances:** Details on dimensions, joint clearances, and material choices based on the arm's intended function.
+- **Load Capacity:** 
+- **Dimensions and Tolerances:** 
 
 ---
