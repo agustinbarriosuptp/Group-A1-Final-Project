@@ -14,7 +14,7 @@ This folder contains the **3D CAD models** and related files for the mechanical 
 This section outlines the key specifications of the robotic arm, including its dimensions, payload capacity, and design tolerances.
 
 #### **1. Dimensions**
-For detailed dimensions and measurements of the robotic arm, refer to the following document:  
+For detailed dimensions and measurements of the robotic arm, refer to the following link:  
 [📐 View Dimensions Here](https://github.com/agustinbarriosuptp/Group-A1-Final-Project/tree/main/docs/3D%20models%20(Mechanism)/Drawings)  
 
 #### **2. Payload**
