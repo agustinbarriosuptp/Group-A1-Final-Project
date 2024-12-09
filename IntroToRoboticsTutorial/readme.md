@@ -7,13 +7,13 @@ This section describes using the **EPSON robot** in our lab for three tasks: Pic
 **Project Description:**  
 This project focuses on programming and controlling the EPSON robot in a lab setting for object manipulation tasks:
 
-- **Task 1: Pick and Place** – The EPSON robot grabs, aligns, and places blocks and tokens on a board.  
+- **Task 1: Pick and Place** – The EPSON robot grabs, aligns, and places blocks and tokens on a board. We control the operation of the robot using buttons connected to the I/O terminals
   [![Watch Task 1 Video](https://img.shields.io/badge/Watch-Task_1-blue)](https://youtu.be/5OCg-I2ZSlQ?si=6uBngnlg_m5KW0fz) <---- *Click here*
 
-- **Task 2: Stacking** – The EPSON robot stacks blocks and tokens in a specified order.  
+- **Task 2: Stacking** – The EPSON robot stacks blocks and tokens in a specified order. We control the operation of the robot using buttons connected to the I/O terminals  
   [![Watch Task 2 Video](https://img.shields.io/badge/Watch-Task_2-blue)](https://youtu.be/SGoLy_Q0XWM?si=tNRr6POcxG31-aYo) <---- *Click here*
 
-- **Task 3: Integration** – With a 3D-printed tray, we place it and place pieces inside.  
+- **Task 3: Integration** – With a 3D-printed tray, we place it and place pieces inside. This task uses intelligent programming, checking how many tokens and blocks there are to perform the pick and place task. We control the operation of the robot using buttons connected to the I/O terminals 
   [![Watch Task 3 Video](https://img.shields.io/badge/Watch-Task_3-blue)](https://www.youtube.com/watch?v=zePF8Wemp40) <---- *Click here* 
 
 
