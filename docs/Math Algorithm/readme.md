@@ -53,7 +53,7 @@ T_{EE} = \begin{bmatrix}
 \$]
 
 ### Inverse Kinematics:
-Given $\(x = 2, y = 2, z = 3\)$:
+Given $\(x = 1, y = 1, z = 2\)$:
 - $\(q = \arctan\left(\frac{y}{x}\right) = \frac{\pi}{4}\)$
 - $\(l_2 = y / \cos(q) = 2.83\)$
 - $\(l_1 + l_{ee} = z - l_0 = 2.0\)$
