@@ -1,4 +1,4 @@
-# Robotics Project
+# RPPP MANIPULATOR - Robotics Project
 
 [![VIDEO OF THE SIMULATION](https://img.youtube.com/vi/watch?v=Ndo_-s_Y-cc/maxresdefault.jpg)](https://youtu.be/watch?v=Ndo_-s_Y-cc)
 
@@ -10,7 +10,7 @@
 - Iván Portilla F11203117
 ---
 
-Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository includes the main robotics project: a custom-built **Robotic Arm**. This project integrates electrical and mechanical engineering.
+Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository includes the main robotics project: a custom-built **Robotic Arm** called **RPPP MANIPULATOR**. This project integrates electrical and mechanical engineering.
 
 ---
 
