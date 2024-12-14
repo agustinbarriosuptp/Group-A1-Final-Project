@@ -1,6 +1,6 @@
 # Robotics Project
 
-[![Watch the Video](https://img.youtube.com/vi/watch?v=Ndo_-s_Y-cc/maxresdefault.jpg)](https://youtu.be/watch?v=Ndo_-s_Y-cc)
+[![VIDEO OF THE SIMULATION](https://img.youtube.com/vi/watch?v=Ndo_-s_Y-cc/maxresdefault.jpg)](https://youtu.be/watch?v=Ndo_-s_Y-cc)
 
 ---
 ## Members:
