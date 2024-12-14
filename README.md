@@ -1,4 +1,8 @@
 # Robotics Project
+
+[![Watch the Video](https://img.youtube.com/vi/watch?v=Ndo_-s_Y-cc/maxresdefault.jpg)](https://youtu.be/watch?v=Ndo_-s_Y-cc)
+
+---
 ## Members:
 - Rafael Acosta F11203101
 - Agustin Barrios F11203103
@@ -6,13 +10,13 @@
 - Iván Portilla F11203117
 ---
 
-Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository includes the main robotics project: a custom-built **Robotic Arm**. This project integrate electrical and mechanical engineering.
+Welcome to the **Introduction To Robotics FINAL PROJECT**! This repository includes the main robotics project: a custom-built **Robotic Arm**. This project integrates electrical and mechanical engineering.
 
 ---
 
 ## Section 1: Introduction to Robotics FINAL PROJECT: Custom Robotic Arm
 
-This section describes our custom-designed **Robotic Arm** project, covering electrical, and mechanical engineering.
+This section describes our custom-designed **Robotic Arm** project, covering electrical and mechanical engineering.
 
 ### 🛠️ 1. Overview
 
@@ -35,7 +39,6 @@ This custom robotic arm is designed to perform manipulation tasks, such as grabb
 **Wiring Diagrams:**  
 Provide wiring diagrams showing connections between the power supply, control board, motors, and sensors.
 
-
 ---
 
 ### 🧩 3. Mechanical Engineering
@@ -50,3 +53,4 @@ Provide wiring diagrams showing connections between the power supply, control bo
 **Physical Considerations:**
 - **Load Capacity and Torque Calculations:** Specifications and calculations for motor torque and load-bearing capacity to ensure stable operation.
 - **Dimensions and Tolerances:** Details on dimensions, joint clearances, and material choices based on the arm's intended function.
+
