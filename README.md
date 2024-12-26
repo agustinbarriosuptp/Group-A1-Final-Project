@@ -1,7 +1,8 @@
 # RPPP MANIPULATOR - Robotics Project
 
-[![VIDEO OF THE SIMULATION](https://img.youtube.com/vi/watch?v=Ndo_-s_Y-cc/maxresdefault.jpg)](https://youtu.be/watch?v=Ndo_-s_Y-cc)
+*[![VIDEO OF THE SIMULATION](https://img.youtube.com/vi/watch?v=Ndo_-s_Y-cc/maxresdefault.jpg)](https://youtu.be/watch?v=Ndo_-s_Y-cc)*
 
+[📄 Download the Project Report](https://github.com/agustinbarriosuptp/Group-A1-Final-Project/blob/main/Introduction%20to%20Robotics%20report.pdf)
 ---
 ## Members:
 - Rafael Acosta F11203101
